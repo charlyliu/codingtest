@@ -1,4 +1,4 @@
-# Resources for the C&amp;T iOS Coding Test
+# Resources for the iOS Coding Test
 
 You will find JSON files that can act as fictional web services, along with fake product images.
 

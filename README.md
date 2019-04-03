@@ -70,8 +70,13 @@ The *json* data only provides you with the *image name*. You will need to append
 If you have time to build a UI during your test, then you can base the layout of your UI on the designs in the *screens* folder.
 
 * ProductGrid.jpg - gives an idea of what the main page should look like
+![Product Grid](/Screens/ProductGrid.jpg "Product Grid")
+
 * ProductPagePortrait.jpg - gives an idea of what the details page should look like
+![Product Detail Portrait](/Screens/ProductPagePortrait.jpg "Product Detail Portrait")
+
 * ProductPageLandscape.jpg - gives a possible alternative layout that could be used in the landscape orientation on iPad only, however it is not expected that you will have time for this
+![Product Detail Landscape](/Screens/ProductPageLandscape.jpg "Product Detail Landscape")
 
 ## Expectations
 

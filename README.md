@@ -2,6 +2,13 @@
 
 You will find JSON files that can act as fictional web services, along with fake product images.
 
+## Use the following URLs to point to the files:
+• https://raw.githubusercontent.com/pjcook/codingtest/master/images/233326778.jpeg
+ - replace the image name at the end
+• https://raw.githubusercontent.com/pjcook/codingtest/master/api/search-valid-response.json
+• https://raw.githubusercontent.com/pjcook/codingtest/master/api/product-search-respons.json
+• https://raw.githubusercontent.com/pjcook/codingtest/master/api/search-valid-response-complex-price.json
+
 ## Coding Test
 
 On this site you will find all the resources that you require for the test. 
@@ -25,7 +32,7 @@ Simply process the following properties:
 * title - This is the title that should be used on the product grid page cell
 * image - This is the image name that should be appended to the url to the images folder in this repo to retrieve the image to display in the product grid page cell
 
-#### Data - search-valid-response.json
+#### Data - product-search-response.json
 
 This is the basic data for the product details screen. The file contains a considerable amount of data, but for the test you are only interested in a small part.
 
